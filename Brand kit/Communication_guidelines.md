@@ -27,6 +27,7 @@ Innovative product features
 - *NFT Dashboard*
 - *Multi-Chain Support (Ethereum, BSC, Avalanche, Polygon)*
 - *One-click participation in DeFi strategies*
+- *Log in to any dApp with our WalletConnect integration*
 - *Gas fee management: automatic, simplifies EIP1559 (no need to choose tip/base separately), can pay gas in any token, saves gas*
 
 **Security:**
