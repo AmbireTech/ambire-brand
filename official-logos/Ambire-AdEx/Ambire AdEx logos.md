@@ -1,1 +1,0 @@
-Ambire AdEx logos 
