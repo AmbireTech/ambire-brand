@@ -7,6 +7,7 @@ Prior to founding Ambire Wallet, Ivo co-founded a media center with over 25 mill
 Ivo is a sought-after speaker and thought leader on blockchain technology and cryptocurrency, and has been featured in numerous publications and media outlets. He is passionate about sharing his knowledge with others and helping to drive the adoption of blockchain technology and crypto around the world.
 
 **Topics of expertise**
+
 Ivo is knowledgeable about all things crypto, blockchain and Web3, including:
 
 - Web3/Blockchain development
@@ -18,6 +19,7 @@ Ivo is knowledgeable about all things crypto, blockchain and Web3, including:
 - DeFi, Cryptocurrency and tokenomics, etc.
 
 More from Ivo Georgiev
+
 [Twitter](https://twitter.com/ivshti)
 [GitHub](http://github.com/ivshti/?ref=blog.ambire.com)
 
