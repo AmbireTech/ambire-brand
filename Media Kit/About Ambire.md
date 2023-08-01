@@ -4,7 +4,7 @@
 
 **The Ambire Company**
 
-Ambire is a web3 product company. Founded in 2017, it developed the first decentralized ad network AdEx Network, the largest payments channels network on Ethereum.  In 2021 the company launched Ambire Wallet, a self-custody open-source smart contract wallet, currently hosting more than 80,000 registered users.
+Ambire is a web3 product company. Founded in 2017, it developed the first decentralized ad network AdEx Network, the largest payments channels network on Ethereum.  In 2021 the company launched Ambire Wallet, a self-custody open-source smart contract wallet, currently hosting more than 110,000 registered users.
 
 Our flagship product, Ambire Wallet, is the self-custody account abstraction wallet focused on security and crypto UX. With an interface that is easy to use and familiar, it makes navigating the world of Web3 a smooth and pleasant experience.
 
