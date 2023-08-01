@@ -7,4 +7,4 @@ In this folder you will find**
 - [Founders](https://github.com/AmbireTech/ambire-brand/tree/main/Media%20Kit/Founders) | Short biographies and photos
 
 
-For other inquiries, including press inquiries, send email to ivan@ambire.com
+For other inquiries (including press inquiries) send email to ivan@ambire.com
