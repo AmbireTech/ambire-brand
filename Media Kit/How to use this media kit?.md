@@ -4,7 +4,7 @@ In this folder you will find
 - [Brand Guidelines](https://github.com/AmbireTech/ambire-brand/blob/main/Media%20Kit/Ambire%20Brand%20Guidelines%20for%20Partners.pdf)
 - [Product Pictures]()
 - [About Ambire](https://github.com/AmbireTech/ambire-brand/blob/main/Media%20Kit/About%20Ambire.md) | Company Info, Ambire Wallet Info, Important links and social media handles
-- [Founders | Short biographies and photos](https://github.com/AmbireTech/ambire-brand/tree/main/Media%20Kit/Founders)
+- [Founders](https://github.com/AmbireTech/ambire-brand/tree/main/Media%20Kit/Founders) | Short biographies and photos
 
 
 For other inquiries, send email to ivan@ambire.com
