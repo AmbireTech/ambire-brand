@@ -3,7 +3,7 @@
 
 
 
-**The Ambire Company
+**The Ambire Company**
 
 Ambire is a web3 product company. Founded in 2017, it developed the first decentralized ad network AdEx Network, the largest payments channels network on Ethereum.  In 2021 the company launched Ambire Wallet, a self-custody open-source smart contract wallet, currently hosting more than 80,000 registered users.
 
@@ -25,12 +25,12 @@ Ambire Wallet is an open-source self-custodial smart wallet that utilizes accoun
 * On Ambire Wallet you can “batch” or combine transactions, meaning you can bundle several transactions and broadcast them together. This saves time and money to the user. For example you can swap tokens on Uniswap without having to authorise Uniswap to spend your tokens first ( the Authorize transaction is broadcasted together with the Swap)
 
 
-**Important Links**
+# Important Links
 
-[Website](https://www.ambire.com/)
-[Whitepaper](https://ambire.notion.site/ambire/Ambire-Wallet-Whitepaper-d502e54caf584fe7a67f9b0a018cd10f)
-[GitHub](https://github.com/AmbireTech)
-[Blog](https://blog.ambire.com/)
-[Twitter](https://twitter.com/AmbireWallet)
-[Discord](https://discord.gg/QQb4xc4ksJ)
-[Telegram](https://t.me/AmbireOfficial)
+[Website](https://www.ambire.com/) <br>
+[Whitepaper](https://ambire.notion.site/ambire/Ambire-Wallet-Whitepaper-d502e54caf584fe7a67f9b0a018cd10f) <br>
+[GitHub](https://github.com/AmbireTech) <br>
+[Blog](https://blog.ambire.com/) <br>
+[Twitter](https://twitter.com/AmbireWallet) <br>
+[Discord](https://discord.gg/QQb4xc4ksJ) <br>
+[Telegram](https://t.me/AmbireOfficial) <br>
