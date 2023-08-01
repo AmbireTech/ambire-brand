@@ -1,4 +1,4 @@
-#Who are we?
+# Who are we?
 
 
 
@@ -26,10 +26,10 @@ Ambire Wallet is an open-source self-custodial smart wallet that utilizes accoun
 
 # Important Links
 
-[Website](https://www.ambire.com/)__
-[Whitepaper](https://ambire.notion.site/ambire/Ambire-Wallet-Whitepaper-d502e54caf584fe7a67f9b0a018cd10f)__
-[GitHub](https://github.com/AmbireTech)__
-[Blog](https://blog.ambire.com/)__
-[Twitter](https://twitter.com/AmbireWallet)__
-[Discord](https://discord.gg/QQb4xc4ksJ)__
-[Telegram](https://t.me/AmbireOfficial)__
+[Website](https://www.ambire.com/) | 
+[Whitepaper](https://ambire.notion.site/ambire/Ambire-Wallet-Whitepaper-d502e54caf584fe7a67f9b0a018cd10f) | 
+[GitHub](https://github.com/AmbireTech) | 
+[Blog](https://blog.ambire.com/) | 
+[Twitter](https://twitter.com/AmbireWallet) | 
+[Discord](https://discord.gg/QQb4xc4ksJ) | 
+[Telegram](https://t.me/AmbireOfficial) | 
