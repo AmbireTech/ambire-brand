@@ -1,10 +1,10 @@
 Hello!
 In this folder you will find
-- Ambire logos: PNG and SVG
-- Brand Guidelines
-- Product Pictures
-- About Ambire | Company Info, Ambire Wallet Info, Important links and social media handles
-- Founders | Short biographies and photos
+- Ambire logos: [PNG](https://github.com/AmbireTech/ambire-brand/tree/main/Media%20Kit/Logo%20%7C%20PNG) and [SVG](https://github.com/AmbireTech/ambire-brand/tree/main/Media%20Kit/Logo%20%7C%20SVG)
+- [Brand Guidelines](https://github.com/AmbireTech/ambire-brand/blob/main/Media%20Kit/Ambire%20Brand%20Guidelines%20for%20Partners.pdf)
+- [Product Pictures]()
+- [About Ambire](https://github.com/AmbireTech/ambire-brand/blob/main/Media%20Kit/About%20Ambire.md) | Company Info, Ambire Wallet Info, Important links and social media handles
+- [Founders | Short biographies and photos](https://github.com/AmbireTech/ambire-brand/tree/main/Media%20Kit/Founders)
 
 
 For other inquiries, send email to ivan@ambire.com
