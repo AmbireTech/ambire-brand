@@ -24,7 +24,7 @@ Ambire Wallet is an open-source self-custodial smart wallet that utilizes accoun
 * On Ambire Wallet you can “batch” or combine transactions, meaning you can bundle several transactions and broadcast them together. This saves time and money to the user. For example you can swap tokens on Uniswap without having to authorise Uniswap to spend your tokens first ( the Authorize transaction is broadcasted together with the Swap)
 
 
-# Important Links
+# Important Links 
 
 [Website](https://www.ambire.com/) | 
 [Whitepaper](https://ambire.notion.site/ambire/Ambire-Wallet-Whitepaper-d502e54caf584fe7a67f9b0a018cd10f) | 
