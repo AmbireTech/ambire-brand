@@ -25,3 +25,21 @@ More from Ivo Georgiev
 
 # Dimo Stoyanov | Co-Founder and COO
 
+Dimo started his first company in 2006 - a web design studio working mainly with clients from the US. Dimo was mainly doing business development and website design. In 2012 he met Ivo and in 2013 they founded Stremio.
+
+Once Ivo and Dimo started monetizing the app with ads, they found how broken the ads monetization model was, and in the beginning of 2017 they started exploring the Ethereum blockchain and decided to build an ad network on top of the Ethereum blockchain - this is how AdEx was born.
+
+Dimo has engaged with crypto back in 2015 - mining BTC and ETH. Throughout the years Dimo has gained a pretty good understanding of how the crypto world goes around. At Ambire Dimo is chief operating officer, overseeing the strategic development of the company. 
+
+**Topics of expertise**
+
+
+- Web3 ecosystem
+- Account Abstraction
+- Web3 UX
+- Startups and management
+- Business development and marketing
+
+More from Dimo Stoyanov
+
+[Twitter](https://twitter.com/_DimoStoyanov)
