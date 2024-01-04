@@ -17,7 +17,7 @@ Our flagship product, Ambire Wallet, is the self-custody account abstraction wal
 
 Ambire Wallet is an open-source self-custodial smart wallet that utilizes account abstraction, acting as a gateway to Web3 applications and providing users with secure and effortless management of their digital assets.
 * It’s an EVM wallet, focusing on the broader Ethereum ecosystem, available on popular L1s like Ethereum, Fantom and Avalanche, as well as L2s like Arbtitrum, Polygon and Optimism. 
-* It is available on the web and it has mobile apps for Android and iOS for granular experience. A browser extension launch is planned for September 2023.
+* It is available on the web and it has mobile apps for Android and iOS for granular experience. A browser extension launch is planned for February/March 2024.
 * You can register and retrieve an account using email and password only. It can be used with a hardware wallet or 2FA as well for added layers of security
 * On Ambire Wallet you can pay for network fees in ERC-20 and stablecoins and you can prepay network fees.
 * It has transaction simulation so that you know how a transaction will change your balances before you even sign it
