@@ -4,7 +4,7 @@ This document outlines the main message points and communication guidelines when
 
 ## **The Ambire Brand**
 
-Ambire was previously known as AdEx Network. The team behind the project started out developing the Ambire AdEx decentralized ad network, and later on pivoted to a self-custodial Account abstraction crypto wallet.
+Ambire spun out of AdEx Network. The team behind the project started out developing the AdEx decentralized ad network, and later on pivoted to a self-custodial Account abstraction crypto wallet.
 
 *“Ambire” is an Italian verb that means “to aspire, aim, strive” and it fully reflects the company’s  ongoing aspiration for excellence and perfection.*
 
