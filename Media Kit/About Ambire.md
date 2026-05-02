@@ -8,18 +8,15 @@ Ambire is a web3 product company. Founded in 2017, it developed the first decent
 
 Our flagship product, Ambire Wallet, is the self-custody account abstraction wallet that makes self-custody easy and secure. With an interface that is easy to use and familiar, it makes navigating the world of Web3 a smooth and pleasant experience.
 
-[AdEx Network](https://www.adex.network/) is the first open-source decentralized advertising platform that focuses on transparency and user privacy. It reduces ad fraud, and offers real-time blockchain verified reporting and micropayments per impression.
-
-
-
 
 **Ambire Wallet**
 
 Ambire Wallet is an open-source self-custodial smart wallet that utilizes account abstraction, acting as a gateway to Web3 applications and providing users with secure and effortless management of their digital assets.
 * It’s an EVM wallet, focusing on the broader Ethereum ecosystem, available on Ethereum and L2s like Base, Optimism, Arbtitrum and more.
 * Furthermore, you can add any EVM network on Ambire and use smart accounts with the same address.
-* Ambire is the first hybrid Account abstraction wallet to support Basic (EOA) and Smart accounts, improving security and user experience.
-* You can use the Ambire browser extension with your existing EOA like Metamask, and upgrade to a Smart Account to unlock transaction batching, paying gas in any token, on-chain simulations, and more.
+* Ambire is the first hybrid Account abstraction wallet to support smart features on EOAs
+* Ambire is focused on privacy and avoids using third-party APIs
+* You can use the Ambire browser extension with your existing EOA like Metamask, unlocking smart features for your existing accounts, like paying gas in any token, on-chain simulations, and more.
 * Ambire is available as a browser extension and it has mobile apps for Android and iOS for granular experience. 
 * Ambire can be used with a hardware wallet or 2FA as well for added layers of security.
 * On Ambire Wallet you can pay and prepay gas with stablecoins and custom tokens. Save on gas fees by topping up on one network and paying on any supported one.
