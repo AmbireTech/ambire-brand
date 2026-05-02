@@ -13,6 +13,13 @@ Official brand assets, guidelines, and media kit for [Ambire Wallet](https://amb
 | [`Ambire Wallet App Logo/`](Ambire%20Wallet%20App%20Logo/) | Wallet-specific wordmark variants — same naming convention as above |
 | [`Media Kit/`](Media%20Kit/) | Press-ready bundle: logos, product screenshots, founder bios & photos, about copy |
 
+## Brand colors
+- #6000ff - purple
+- #AF50FF- light purple
+- #d7ff00 - green
+- #fe4648 - pastel red
+- #3871ff - pastel blue
+
 ## Media Kit quick links
 
 - [About Ambire](Media%20Kit/About%20Ambire.md) — company info, key links
