@@ -9,8 +9,6 @@ Official brand assets, guidelines, and media kit for [Ambire Wallet](https://amb
 | [`Ambire Brand Basics.pdf`](Ambire%20Brand%20Basics.pdf) | Brand fundamentals — colors, typography, usage rules |
 | [`Communication guidelines.md`](Communication%20guidelines.md) | Key messages, USPs, pronunciation, social handles |
 | [`Ambire Logo/`](Ambire%20Logo/) | Full wordmark — horizontal & vertical, color/mono/simplified, black & white — PNG + SVG |
-| [`Ambire Symbol Logo/`](Ambire%20Symbol%20Logo/) | Icon/symbol only — color, mono, simplified — PNG + SVG |
-| [`Ambire Wallet App Logo/`](Ambire%20Wallet%20App%20Logo/) | Wallet-specific wordmark variants — same naming convention as above |
 | [`Media Kit/`](Media%20Kit/) | Press-ready bundle: logos, product screenshots, founder bios & photos, about copy |
 
 ## Brand colors
